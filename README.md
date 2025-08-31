@@ -1,4 +1,4 @@
-# AI Financial Tracker 💰
+# Moolah 💰
 
 A comprehensive expense tracking application with AI-powered features, OCR receipt processing, smart budgeting, and team collaboration capabilities.
 
